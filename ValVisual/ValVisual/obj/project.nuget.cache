@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xkIXgw/h7Gx0+zytQqYJ+TwxSgW8sAgcojibEB9qTDcJ+GRtNNMyRcHvYx5BHBE7B8OpgE0d92OYQ9gDGYcMuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\ValVisual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eksom\\.nuget\\packages\\opencvsharp4\\4.7.0.20230115\\opencvsharp4.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\opencvsharp4.runtime.win\\4.7.0.20230115\\opencvsharp4.runtime.win.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\eksom\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\ValVisual.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\ValVisual.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\ValVisual.csproj",
+        "projectName": "ValVisual",
+        "projectPath": "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\ValVisual.csproj",
+        "packagesPath": "C:\\Users\\eksom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eksom\\source\\repos\\ValVisual\\ValVisual\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eksom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.7.0.20230115, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.7.0.20230115, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
